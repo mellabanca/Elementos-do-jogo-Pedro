@@ -1,0 +1,48 @@
+Jogo de corrida multiplayer
+
+Personagens:
+PCs - carrinhos
+NPCs - obstáculos, moedas, combustível, oponente
+
+Objetivo:
+Chegar no fim da corrida em primeiro lugar
+Não bater nos obstáculos e no outro carro
+Não ficar sem gasolina
+Consegiur o máximo de pontos
+
+Regras:
+- Se apertar as teclas, o carro anda
+- O jogo começa quando os dois jogadores entram
+- O jogo termina quando ou os jogadores cruzam
+a linha de chegada, ou acaba o combustível,
+ou acaba a vida
+- A vida diminui quando bate nos obstáculos
+ou no outro carrinho
+- O combustível diminui quando começa a andar
+- O combustível é completado quando pegamos o
+tanque de combustível
+- A pontuação aumenta quando a gente pega moeda
+- Ganha o jogo quem chegar primeiro e/ou com
+mais pontos
+
+Equilíbrio:
+Mais difícil: obstáculos, perda de combustível
+Mais fácil: tanques de combustível
+
+Adaptabilidade:
+Não se aplica
+
+Elementos de acaso:
+Local dos tanques de combustível e das moedas
+Oponente
+
+Elementos de habilidade:
+Obstáculos
+
+Feedback:
+- Barra de gasolina
+- Barra de vida
+- Placar
+
+História:
+Velozes e Furiosos

@@ -1,0 +1,48 @@
+Horizon (primeiro jogo)
+
+Personagens:
+PCs - Aloy
+NPCs - Mercadores, máquinas que a gente enfrenta, aliados, desbloqueio do mapa
+
+História:
+Tem a tribo nora, onde a Aloy nasce. Uma das xamãs da tribo tem considera 
+a Aloy um mau agouro e, daí ela é exilada. Quando ela está mais velha (19),
+tem uma prova para os jovens se provarem valentes, eles dão uma chance
+pra ela (vai deixar de ser exilada). No final da provação, aparecem os
+assassinos do eclipse pra tentar matar a Aloy. Se passa no mesmo planeta.
+É um jogo futurista (por volta de 2060), vibe meio revolta das máquinas,
+com inteligência artificial.
+
+Objetivo:
+Impedir o Ares (que é uma das inteligências artificiais do mal), ele
+está tentando despertar novamente os robôs.
+
+Regras:
+Controles: PS4 e PS5
+Armas diferentes, com ataques diferentes (exemplo: arcos com diferentes
+tipos de flechas, chocalho, coisas para prender as máquinas, controlar)
+Como consegue as armas: algumas ganha nas missões e outras compra
+Avanço no jogo: tem XP, árvore de habilidades, missões, desbloqueando
+o mapa, tem os NPCs e a interação deles vai alterando com o passar da
+história
+É um jogo de mundo aberto
+Quando você morre, volta para o último ponto de save (fogueira)
+
+Equilíbrio/adaptabilidade:
+Mais difícil - Máquinas corrompidas (mais agressivas, mais dano)
+Mais fácil - quando sobe de nível, tem mais vida máxima, pontos de habilidade
+
+Elementos do acaso:
+O jogo é meio previsível
+
+Elementos de habilidade:
+Localização das máquinas/quantidade das máquinas
+Missões com os NPCs
+
+Feedback:
+Tem a barra de vida
+Tem a barra de xp/nível
+Tem a bolsa de medicamentos
+As armas têm munição que variam
+Dinheiro
+Sistemas de bobinas (para deixar as armas e trajes mais fortes)
